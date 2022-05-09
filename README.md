@@ -1,2 +1,19 @@
 # Challenge_7
+ETF ANALYZER
+
+
 Financial Databases w/  SQL
+
+WEB APPLICATION using PYTHON & VOILA
+
+RESEARCH, ANALYZE & AND DISPLAY VISUALIZATION
+
+
+
+
+
+
+
+
+
+
